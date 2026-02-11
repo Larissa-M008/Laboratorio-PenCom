@@ -1,3 +1,12 @@
+
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 3\Lab3_A3_Larissa Méndez\Lab3_A3_Larissa Méndez\bin\Debug\Lab3_A3_Larissa Méndez.exe.config
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 3\Lab3_A3_Larissa Méndez\Lab3_A3_Larissa Méndez\bin\Debug\Lab3_A3_Larissa Méndez.exe
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 3\Lab3_A3_Larissa Méndez\Lab3_A3_Larissa Méndez\bin\Debug\Lab3_A3_Larissa Méndez.pdb
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 3\Lab3_A3_Larissa Méndez\Lab3_A3_Larissa Méndez\obj\Debug\Lab3_A3_Larissa Méndez.csproj.AssemblyReference.cache
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 3\Lab3_A3_Larissa Méndez\Lab3_A3_Larissa Méndez\obj\Debug\Lab3_A3_Larissa Méndez.csproj.CoreCompileInputs.cache
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 3\Lab3_A3_Larissa Méndez\Lab3_A3_Larissa Méndez\obj\Debug\Lab3_A3_Larissa Méndez.exe
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 3\Lab3_A3_Larissa Méndez\Lab3_A3_Larissa Méndez\obj\Debug\Lab3_A3_Larissa Méndez.pdb
+
 C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 3\Lab3_A3_Larissa Méndez\Lab3_A3_Larissa Méndez\bin\Debug\Lab3_A3_Larissa Méndez.exe.config
 C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 3\Lab3_A3_Larissa Méndez\Lab3_A3_Larissa Méndez\bin\Debug\Lab3_A3_Larissa Méndez.exe
 C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 3\Lab3_A3_Larissa Méndez\Lab3_A3_Larissa Méndez\bin\Debug\Lab3_A3_Larissa Méndez.pdb
