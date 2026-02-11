@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\darle\\OneDrive\\Documentos\\GitHub\\Laboratorio-PenCom\\Lab-PC-DLMB\\Lab 3\\Lab3_A3_Larissa M\u00E9ndez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A7B42C-294C-4FE2-BFC0-0B4B74875E86}|Lab3_A3_Larissa M\u00E9ndez\\Lab3_A3_Larissa M\u00E9ndez.csproj|c:\\users\\darle\\onedrive\\documentos\\github\\laboratorio-pencom\\lab-pc-dlmb\\lab 3\\lab3_a3_larissa m\u00E9ndez\\lab3_a3_larissa m\u00E9ndez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A7B42C-294C-4FE2-BFC0-0B4B74875E86}|Lab3_A3_Larissa M\u00E9ndez\\Lab3_A3_Larissa M\u00E9ndez.csproj|solutionrelative:lab3_a3_larissa m\u00E9ndez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\darle\\OneDrive\\Documentos\\GitHub\\Laboratorio-PenCom\\Lab-PC-DLMB\\Lab 3\\Lab3_A3_Larissa M\u00E9ndez\\Lab3_A3_Larissa M\u00E9ndez\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3_A3_Larissa M\u00E9ndez\\Program.cs",
+              "ToolTip": "C:\\Users\\darle\\OneDrive\\Documentos\\GitHub\\Laboratorio-PenCom\\Lab-PC-DLMB\\Lab 3\\Lab3_A3_Larissa M\u00E9ndez\\Lab3_A3_Larissa M\u00E9ndez\\Program.cs",
+              "RelativeToolTip": "Lab3_A3_Larissa M\u00E9ndez\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T14:01:29.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
