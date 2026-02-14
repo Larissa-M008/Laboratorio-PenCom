@@ -1,0 +1,7 @@
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 4\Lab4_DLMB_1142526\Lab4_DLMB_1142526\obj\Debug\Lab4_DLMB_1142526.csproj.AssemblyReference.cache
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 4\Lab4_DLMB_1142526\Lab4_DLMB_1142526\obj\Debug\Lab4_DLMB_1142526.csproj.CoreCompileInputs.cache
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 4\Lab4_DLMB_1142526\Lab4_DLMB_1142526\bin\Debug\Lab4_DLMB_1142526.exe.config
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 4\Lab4_DLMB_1142526\Lab4_DLMB_1142526\bin\Debug\Lab4_DLMB_1142526.exe
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 4\Lab4_DLMB_1142526\Lab4_DLMB_1142526\bin\Debug\Lab4_DLMB_1142526.pdb
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 4\Lab4_DLMB_1142526\Lab4_DLMB_1142526\obj\Debug\Lab4_DLMB_1142526.exe
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 4\Lab4_DLMB_1142526\Lab4_DLMB_1142526\obj\Debug\Lab4_DLMB_1142526.pdb
