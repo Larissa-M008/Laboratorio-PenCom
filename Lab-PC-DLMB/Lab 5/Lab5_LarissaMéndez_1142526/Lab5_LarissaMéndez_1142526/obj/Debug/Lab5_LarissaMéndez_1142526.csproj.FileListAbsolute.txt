@@ -5,3 +5,10 @@ C:\Users\darle\source\repos\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142
 C:\Users\darle\source\repos\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142526\obj\Debug\Lab5_LarissaMéndez_1142526.csproj.CoreCompileInputs.cache
 C:\Users\darle\source\repos\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142526\obj\Debug\Lab5_LarissaMéndez_1142526.exe
 C:\Users\darle\source\repos\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142526\obj\Debug\Lab5_LarissaMéndez_1142526.pdb
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 5\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142526\bin\Debug\Lab5_LarissaMéndez_1142526.exe.config
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 5\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142526\bin\Debug\Lab5_LarissaMéndez_1142526.exe
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 5\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142526\bin\Debug\Lab5_LarissaMéndez_1142526.pdb
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 5\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142526\obj\Debug\Lab5_LarissaMéndez_1142526.csproj.AssemblyReference.cache
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 5\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142526\obj\Debug\Lab5_LarissaMéndez_1142526.csproj.CoreCompileInputs.cache
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 5\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142526\obj\Debug\Lab5_LarissaMéndez_1142526.exe
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 5\Lab5_LarissaMéndez_1142526\Lab5_LarissaMéndez_1142526\obj\Debug\Lab5_LarissaMéndez_1142526.pdb

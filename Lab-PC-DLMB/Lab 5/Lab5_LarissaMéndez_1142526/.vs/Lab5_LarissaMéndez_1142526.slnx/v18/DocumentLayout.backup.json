@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\darle\\source\\repos\\Lab5_LarissaM\u00E9ndez_1142526\\",
+  "WorkspaceRootPath": "C:\\Users\\darle\\OneDrive\\Documentos\\GitHub\\Laboratorio-PenCom\\Lab-PC-DLMB\\Lab 5\\Lab5_LarissaM\u00E9ndez_1142526\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEE46C9E-2850-41BE-B026-50C3C106492F}|Lab5_LarissaM\u00E9ndez_1142526\\Lab5_LarissaM\u00E9ndez_1142526.csproj|c:\\users\\darle\\source\\repos\\lab5_larissam\u00E9ndez_1142526\\lab5_larissam\u00E9ndez_1142526\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEE46C9E-2850-41BE-B026-50C3C106492F}|Lab5_LarissaM\u00E9ndez_1142526\\Lab5_LarissaM\u00E9ndez_1142526.csproj|c:\\users\\darle\\onedrive\\documentos\\github\\laboratorio-pencom\\lab-pc-dlmb\\lab 5\\lab5_larissam\u00E9ndez_1142526\\lab5_larissam\u00E9ndez_1142526\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEE46C9E-2850-41BE-B026-50C3C106492F}|Lab5_LarissaM\u00E9ndez_1142526\\Lab5_LarissaM\u00E9ndez_1142526.csproj|solutionrelative:lab5_larissam\u00E9ndez_1142526\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\darle\\source\\repos\\Lab5_LarissaM\u00E9ndez_1142526\\Lab5_LarissaM\u00E9ndez_1142526\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\darle\\OneDrive\\Documentos\\GitHub\\Laboratorio-PenCom\\Lab-PC-DLMB\\Lab 5\\Lab5_LarissaM\u00E9ndez_1142526\\Lab5_LarissaM\u00E9ndez_1142526\\Program.cs",
               "RelativeDocumentMoniker": "Lab5_LarissaM\u00E9ndez_1142526\\Program.cs",
-              "ToolTip": "C:\\Users\\darle\\source\\repos\\Lab5_LarissaM\u00E9ndez_1142526\\Lab5_LarissaM\u00E9ndez_1142526\\Program.cs*",
-              "RelativeToolTip": "Lab5_LarissaM\u00E9ndez_1142526\\Program.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\darle\\OneDrive\\Documentos\\GitHub\\Laboratorio-PenCom\\Lab-PC-DLMB\\Lab 5\\Lab5_LarissaM\u00E9ndez_1142526\\Lab5_LarissaM\u00E9ndez_1142526\\Program.cs",
+              "RelativeToolTip": "Lab5_LarissaM\u00E9ndez_1142526\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAI8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T13:23:28.452Z",
               "EditorCaption": ""
