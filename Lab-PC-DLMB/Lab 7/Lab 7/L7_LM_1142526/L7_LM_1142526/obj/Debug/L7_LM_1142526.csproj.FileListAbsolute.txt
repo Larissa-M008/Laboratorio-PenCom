@@ -1,0 +1,14 @@
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 6\L7_LM_1142526\L7_LM_1142526\bin\Debug\L7_LM_1142526.exe.config
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 6\L7_LM_1142526\L7_LM_1142526\bin\Debug\L7_LM_1142526.exe
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 6\L7_LM_1142526\L7_LM_1142526\bin\Debug\L7_LM_1142526.pdb
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 6\L7_LM_1142526\L7_LM_1142526\obj\Debug\L7_LM_1142526.csproj.AssemblyReference.cache
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 6\L7_LM_1142526\L7_LM_1142526\obj\Debug\L7_LM_1142526.csproj.CoreCompileInputs.cache
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 6\L7_LM_1142526\L7_LM_1142526\obj\Debug\L7_LM_1142526.exe
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 6\L7_LM_1142526\L7_LM_1142526\obj\Debug\L7_LM_1142526.pdb
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 7\L7_LM_1142526\L7_LM_1142526\bin\Debug\L7_LM_1142526.exe.config
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 7\L7_LM_1142526\L7_LM_1142526\bin\Debug\L7_LM_1142526.exe
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 7\L7_LM_1142526\L7_LM_1142526\bin\Debug\L7_LM_1142526.pdb
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 7\L7_LM_1142526\L7_LM_1142526\obj\Debug\L7_LM_1142526.csproj.AssemblyReference.cache
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 7\L7_LM_1142526\L7_LM_1142526\obj\Debug\L7_LM_1142526.csproj.CoreCompileInputs.cache
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 7\L7_LM_1142526\L7_LM_1142526\obj\Debug\L7_LM_1142526.exe
+C:\Users\darle\OneDrive\Documentos\GitHub\Laboratorio-PenCom\Lab-PC-DLMB\Lab 7\L7_LM_1142526\L7_LM_1142526\obj\Debug\L7_LM_1142526.pdb
